@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600949449 source:c:\users\hp\desktop\ibnebalta\lexical_analyzer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

@@ -1,0 +1,12 @@
+const max_powermax_powermax_power;	(*Error Message, max length 20*)
+int 42max_time := 10;			(*Error Message, identifier starts with alphabetic character*)
+int max_addition := 8;
+float propell&&ent := 55555555555555;	(*Error Message, identifier and integer*)
+int thrust := 4;
+While (max_time := 0 ){
+	max_power:=max_addition*max_time; (*power calculation*)
+	propellent+thrust:=			movement;
+	max_time++;
+	stringide := "String Check";
+	break;
+}
